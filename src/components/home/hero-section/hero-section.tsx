@@ -3,7 +3,7 @@ export function HeroSection() {
     <section className={'mx-auto max-w-7xl px-[32px] relative flex items-center justify-between mt-16 mb-12'}>
       <div className={'text-center w-full '}>
         <h1 className={'text-[48px] leading-[48px] md:text-[80px] md:leading-[80px] tracking-[-1.6px] font-medium'}>
-          Powerful design tools.
+          Powerful design toolss.
           <br />
           Simple pricing.
         </h1>
